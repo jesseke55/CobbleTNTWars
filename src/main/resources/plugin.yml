@@ -1,0 +1,9 @@
+name: CobbleTNTWars
+version: 1.0
+main: me.experminator.CobbleTNTWars.Main
+authors: [Experminator]
+description: TNTWars plugin of CobbleMC
+commands:
+  tntwars:
+    description: Base command of CobbleTNTWars
+    aliases: [tnt]
